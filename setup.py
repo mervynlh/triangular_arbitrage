@@ -16,7 +16,7 @@ if os.path.exists('README.rst'):
 setup(
     name="triangular_arbitrage",
 
-    version='0.1.3',
+    version='0.0.1',
 
     description=readme,
 
