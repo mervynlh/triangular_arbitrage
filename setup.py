@@ -1,10 +1,9 @@
 from setuptools import setup, find_packages
 
-
 setup(
-    name="triangular_arbitrage",
+    name="triangular-arbitrage",
 
-    version='0.0.2',
+    version='0.0.1',
 
     description='block chain triangular arbitrage',
 

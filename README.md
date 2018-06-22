@@ -6,6 +6,6 @@ Now compatible with both Python 2.7 and Python 3.6
 
 Install using pip:
 ```
-pip install triangular_arbitrage
+pip install triangular-arbitrage
 ```
 
