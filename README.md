@@ -1,4 +1,4 @@
-#triangular arbitrage
+# triangular arbitrage
 
 This library is used to block chain triangular arbitrage
 
