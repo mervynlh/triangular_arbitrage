@@ -19,6 +19,4 @@ setup(
 
     packages=find_packages(exclude=['triangular_arbitrage']),
 
-    install_requires=['pandas'],
-
 )
